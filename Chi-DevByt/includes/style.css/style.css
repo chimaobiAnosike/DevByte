@@ -1,0 +1,26 @@
+.search-margin{
+    position: relative;
+    left: 400px !important;
+}
+
+.img-post{
+    width: 100px;
+    height: 100px;
+}
+
+.changepass{
+    overflow: hidden !important;
+}
+
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.no-gutters > .col-md-3,
+.no-gutters > .col-md-5,
+.no-gutters > .col-md-4 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+}

@@ -1,0 +1,6 @@
+[{"file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/dbconfig.php","line":14,"function":"__construct","class":"mysqli","type":"->","args":["localhost","roo",{},"chidev"]},{"file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/includes\/header.php","line":6,"args":["\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/dbconfig.php"],"function":"include"},{"file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/chi-devbyt\/dashboard.php","line":1,"args":["\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/includes\/header.php"],"function":"include_once"}]
+
+[{"file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/dbconfig.php","line":14,"function":"__construct","class":"mysqli","type":"->","args":["localhost","roo",{},"chidev"]},{"file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/includes\/header.php","line":6,"args":["\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/dbconfig.php"],"function":"include"},{"file":"\/Applications\/XAMPP\/xamppfiles\/htdocs\/chi-devbyt\/dashboard.php","line":1,"args":["\/Applications\/XAMPP\/xamppfiles\/htdocs\/Chi-DevByt\/includes\/header.php"],"function":"include_once"}]
+
+After redirect
+

@@ -1,0 +1,484 @@
+Uri: https://fonts.googleapis.com/css?family=Arimo:400,400i,700,700i&display=swap
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Heebo:100,300,400,500,700,800,900&display=swap
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arimo/v29/P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\arimo\v29\P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v29/P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\arimo\v29\P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v29/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\arimo\v29\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v29/P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\arimo\v29\P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1E1yysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EbiusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1ECSusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EICusdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiS2sdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v26/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\s\heebo\v26\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EuyysdUmj.ttf
+Content Type: font/ttf
+
+Uri: https://templates.envytheme.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/404-error.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\404-error.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/animate.min.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/dark.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\dark.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/icofont.min.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\icofont.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/magnific-popup.min.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/meanmenu.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/responsive.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/css/style.css
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\css\style.css
+Content Type: text/css
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/1-ads.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\1-ads.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/10.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\10.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/11.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\11.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/12.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\12.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/13.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\13.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/14.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\14.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/15.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\15.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/16.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\16.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/17.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\17.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/18.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\18.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/19.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\19.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/2-ads.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\2-ads.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/2.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/20.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\20.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/21.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\21.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/22.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\22.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/3-ads.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\3-ads.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/3.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/4-ads.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\4-ads.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/4.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/5-ads.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\5-ads.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/5.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/6-ads.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\6-ads.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/6.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/7.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/8.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\8.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/9.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\9.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/author1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\author1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/2.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/3.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/4.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/5.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/6.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blog-home-image/7.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blog-home-image\7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/blogger.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\blogger.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/coming-soon.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\coming-soon.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/2.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/3.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/4.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/5.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\5.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/6.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\6.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/7.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\7.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/8.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\8.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-image/9.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-image\9.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/gallery-news1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\gallery-news1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/logo.png
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\logo.png
+Content Type: image/png
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/oops-bg.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\oops-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/slides1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\slides1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/slides2.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\slides2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/slides3.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\slides3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/small-1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\small-1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/small-2.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\small-2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/small-3.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\small-3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/small-4.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\small-4.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/video-1.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\video-1.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/video-2.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\video-2.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/img/video-3.jpg
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\img\video-3.jpg
+Content Type: image/jpeg
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/contact-form-script.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\contact-form-script.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/form-validator.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\form-validator.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/jquery.ajaxchimp.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\jquery.ajaxchimp.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/jquery.meanmenu.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\jquery.meanmenu.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/main.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/mixitup.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\mixitup.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/assets/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://templates.envytheme.com/sinmun/default/author.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\author.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/coming-soon.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\coming-soon.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/contact.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\contact.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/gallery-1.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\gallery-1.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/gallery-2.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\gallery-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index-2.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index-3.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index-3.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index-4.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index-4.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index-5.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index-5.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index-6.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index-6.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index-7.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index-7.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/index.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\index.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/login.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\login.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/post-category-1.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\post-category-1.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/post-category-2.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\post-category-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/post-category-3.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\post-category-3.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/post-category-4.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\post-category-4.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/post-category-5.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\post-category-5.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/post-category-6.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\post-category-6.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/signup.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\signup.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/single-post-1.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\single-post-1.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/single-post-2.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\single-post-2.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/single-post-3.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\single-post-3.html
+Content Type: text/html
+
+Uri: https://templates.envytheme.com/sinmun/default/single-post-4.html
+File Name: C:\Downloaded Web Sites\templates.envytheme.com\sinmun\default\single-post-4.html
+Content Type: text/html
+
